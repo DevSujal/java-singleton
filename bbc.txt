@@ -1,0 +1,88 @@
+1 Jagriti R Sharma AIML 10 11 10 31
+2 Shreya R Barde BIO MED 10 5.5 8 23.5
+3 Sanika Rajendra Raut BIO MED 10 8 7 25
+4 Urshita Rahate BIO MED 10 9.5 6 25.5
+5 Shantanu Umesh Bedre BIO MED 10 8 8 26
+6 Vaishnavi Umesh Nikule BIO MED 10 9 6 25
+7 Aditya Dhanesh Hatwar CEU 7 4 11
+8 Mukul Anil Mehar CEU 10 8 7 25
+9 Tejas Kishor Choudhari CEU 10 8 7 25
+10 Om Sanjay Nimkar CEU 10 9 7 26
+11 Sankalp N Dandekar CEU 10 2 7 19
+12 Om Rakesh Rai CEU 10 6 8 24
+13 Naman Mohan Sabu CEU 10 7 5 22
+14 Kushal R Lade CEU 10 7 3 20
+15 Ratnesh R Mishra CEU 8 6 14
+16 Piyush Raju Gupta CEU 10 2 6 18
+17 Aryansh Gautam CEU 5 5
+18 Nayan Amit Agrawal CEU 8 6 14
+19 Simran S Dhave CEU 10 9 9 28
+20 Nehal P Deshbhratar CEU 10 7 6 23
+21 Farhan Parvez Khan CEU 10 5 2 17
+22 Ayush Vinod Kamane CEU 10 11 13 34
+23 Ninad Bhusari CIVIL 10 9 9 28
+24 Amisha pappu CIVIL 10 6 8 24
+25 Sujal Sunil Nimje CSU 10 7 10.5 27.5
+26 Moulik Anand Paliwal CSU 10 13.5 15 38.5
+27 Vansh S Potpose CSU 10 9 10.5 29.5
+28 Priya S Chaurasiya CSU 10 11 8.5 29.5
+29 Kashish N Pawar CSU 10 9 9 28
+30 Raunak Ritesh Jijotia CSU 10 9 10 29
+31 Kiran Kanuram Rathi CSU 10 10 13.5 33.5
+32 Vedant V Dharmadhikari CSU 10 10 10 30
+33 Prathamesh V Durbude CSU 10 7 8 25
+34 Ritish Kumar CSU 7 12.5 19.5
+35 Mayank Jaiswal CSU 10 9 12.5 31.5
+36 Nakul Makode CSU 10 9 13.5 32.5
+Shri Ramdeobaba College of Engineering and Management, Nagpur
+
+Open Electives for B.E. IVth Semester
+
+Course Name : HEALTH AND WELL BEING FOR ACTIVE LIFE STYLE {PET 299-1}
+
+Session 2023-24
+INTERNAL MARKS
+Department of Physical Education
+
+37 Yogeshwar Tiwari CSU 10 9 11 30
+38 Subodh Rayakwar CSU 10 11 14 35
+39 Manas Bhardwaj CSU 10 11 11 32
+40 Mit Patel CSU 10 9 9 28
+41 Gagan S Mohabey CYBER 7 2.5 9.5
+42 Aryan Varma DATA SCI 10 7 9 26
+43 Mohd Mushfique Diwan ECU 10 8 18
+44 Minar Masudahmed Sheikh ECU 10 3.5 7 20.5
+45 Vaidehi Vinod Ganvir ECU 8 11 19
+46 Mohd Humair Qureshi ECU 10 7 5 22
+47 Kartik Wasu ECU 10 7 11.5 28.5
+48 Nilesh sonwane ECU 10 0 2.5 12.5
+49 Kshitij M Devda ECU 10 3 2 15
+50 Pratyaksha Ravi Yadav ECU 10 7 4 21
+51 Kammya Bhupesh Paradhi EEU 10 10 12.5 32.5
+52 Bhushan Jayant Dabre EEU 10 7 8 25
+53 Mahi Abhay Tiwari EEU 10 11 10.5 31.5
+54 Parth R Londase EEU 10 9 8 27
+55 Shreyash Raju Wasekar EEU 10 10 7 27
+56 Aditi Deepak Mishra EEU 10 10 9 29
+57 Rohan R Dhote EEU 10 8 4 22
+58 Karan Ganesh Belekar EEU 10 7 5 22
+59 Sahil Rajesh Siriah EEU 10 8 5.5 23.5
+60 Sahil J Gaidhane EEU 10 8 6.5 24.5
+61 Vrushabh V Mourya EEU 10 9 8.5 27.5
+62 Sejal D Sonkusale EEU 10 9 8.5 27.5
+63 Kirthana Ashish Turray EEU 10 10 8.5 28.5
+64 Mansi N Chhadi EEU 10 7 5 22
+65 Purn A Kathalewar EEU 10 9 7.5 26.5
+66 Shrinit O Jichkar ENC 10 10 7 27
+67 Kshitij M Devda IT 10 9 8 27
+68 Sachin Sharma IT 10 9 7.5 26.5
+69 Prem C Shahane IT 10 9 7 26
+70 Mihul G Bairagi IT 10 7 5 22
+71 Karandeep Singh IT 10 9 6.5 25.5
+72 Atharava Mankar(Diploma) IT 10 9 6.5 25.5
+73 Vedant P Somankar IT 10 7 6.5 23.5
+74 Advait A Deshmukh MEU 10 10 8 28
+75 Saurav Haru Maity MEU 10 9 8.5 27.5
+76 Ayush Singh MEU 10 9 6 25
+77 Aaryan Sharma CIVIL 10 11 7 28
+78 Prasanna Sapre CIVIL 9 7.5 16.5
